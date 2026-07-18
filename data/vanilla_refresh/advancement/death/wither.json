@@ -5,7 +5,7 @@
       "conditions": {
         "killing_blow": {
           "source_entity": {
-            "entity_type": "minecraft:wither"
+            "type": "minecraft:wither"
           }
         }
       }

@@ -5,7 +5,7 @@
       "conditions": {
         "killing_blow": {
           "direct_entity": {
-            "entity_type": "#minecraft:arrows"
+            "type": "#minecraft:arrows"
           }
         }
       }

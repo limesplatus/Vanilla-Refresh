@@ -19,7 +19,7 @@
           "condition": "minecraft:entity_properties",
           "entity": "this",
           "predicate": {
-            "entity_type": "minecraft:player"
+            "type": "minecraft:player"
           }
         }
       ]
@@ -34,7 +34,7 @@
           "condition": "minecraft:entity_properties",
           "entity": "this",
           "predicate": {
-            "entity_type": "#vanilla_refresh:cannot_show_health"
+            "type": "#vanilla_refresh:cannot_show_health"
           }
         },
         {
@@ -54,7 +54,7 @@
       "entity": "this",
       "predicate": {
         "passenger": {
-          "entity_type": "player"
+          "type": "player"
         }
       }
     }
