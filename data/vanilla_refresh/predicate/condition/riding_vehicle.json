@@ -6,7 +6,7 @@
       "entity": "this",
       "predicate": {
         "vehicle": {
-          "entity_type": "#vanilla_refresh:misc"
+          "type": "#vanilla_refresh:misc"
         }
       }
     }
