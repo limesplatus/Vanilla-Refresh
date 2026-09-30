@@ -1,0 +1,86 @@
+{
+  "criteria": {
+    "copper_axe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "copper_axe"
+      }
+    },
+    "copper_pickaxe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "copper_pickaxe"
+      }
+    },
+    "copper_shovel": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "copper_shovel"
+      }
+    },
+    "copper_sword": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "copper_sword"
+      }
+    },
+    "copper_spear": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "copper_spear"
+      }
+    },
+    "copper_hoe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "copper_hoe"
+      }
+    },
+    "copper_boots": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "copper_boots"
+      }
+    },
+    "copper_leggings": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "copper_leggings"
+      }
+    },
+    "copper_chestplate": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "copper_chestplate"
+      }
+    },
+    "copper_helmet": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "copper_helmet"
+      }
+    },
+    "copper_chest": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "copper_chest"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "copper_axe",
+      "copper_pickaxe",
+      "copper_sword",
+      "copper_spear",
+      "copper_hoe",
+      "copper_shovel",
+      "copper_chestplate",
+      "copper_leggings",
+      "copper_boots",
+      "copper_helmet",
+      "copper_chest"
+    ]
+  ],
+  "parent": "vanilla_refresh:craft/any"
+}

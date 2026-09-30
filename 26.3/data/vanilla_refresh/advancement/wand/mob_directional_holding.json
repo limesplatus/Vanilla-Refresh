@@ -1,0 +1,62 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type": "minecraft:all_of",
+          "terms": [
+            {
+              "type": "minecraft:any_of",
+              "terms": [
+                {
+                  "type": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "equipment": {
+                      "mainhand": {
+                        "items": [
+                          "minecraft:carrot_on_a_stick"
+                        ],
+                        "predicates": {
+                          "minecraft:custom_data": {
+                            "VanillaRefreshToolPosition": 2
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "type": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "equipment": {
+                      "offhand": {
+                        "items": [
+                          "minecraft:carrot_on_a_stick"
+                        ],
+                        "predicates": {
+                          "minecraft:custom_data": {
+                            "VanillaRefreshToolPosition": 2
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "parent": "vanilla_refresh:wand/brush_cookie",
+  "rewards": {
+    "function": "vanilla_refresh:wand/z/holding/precision_mode"
+  },
+  "#x_rewards": {
+    "function": "vanilla_refresh:wand/z/brush_mob"
+  }
+}

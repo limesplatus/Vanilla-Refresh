@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:any_of",
+  "terms": [
+    {
+      "type": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type_specific/player": {
+          "gamemode": [
+            "creative"
+          ]
+        }
+      }
+    },
+    {
+      "type": "minecraft:int_value_check",
+      "value": {
+        "type": "minecraft:score",
+        "target": {
+          "type": "minecraft:fixed",
+          "name": "wands_survival"
+        },
+        "score": "refresh_settings"
+      },
+      "test": {
+        "min": 1,
+        "max": 1
+      }
+    }
+  ]
+}

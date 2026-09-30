@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": {
+          "type": "minecraft:match_block",
+          "blocks": "minecraft:pumpkin_stem"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "vanilla_refresh:other/placed_block"
+  },
+  "parent": "vanilla_refresh:place/disc"
+}

@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "nbt": "{Tags:[\"refresh_entity_silenced\"]}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "vanilla_refresh:block/echo/kill_mob"
+  }
+}

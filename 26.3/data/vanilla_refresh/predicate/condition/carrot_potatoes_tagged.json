@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:any_of",
+  "terms": [
+    {
+      "type": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "nbt": "{Tags:[\"refresh_entity_crop_carrot\"]}"
+      }
+    },
+    {
+      "type": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "nbt": "{Tags:[\"refresh_entity_crop_potatoes\"]}"
+      }
+    }
+  ]
+}

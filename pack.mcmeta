@@ -14,7 +14,7 @@
         "color": "#30dbbf"
       },
       {
-        "translate": " [v1.4.31]",
+        "translate": " [v1.4.32]",
         "color": "#707070"
       },
       {
@@ -32,6 +32,11 @@
         "min_format": 101,
         "max_format": 9999,
         "directory": "26.1"
+      },
+      {
+        "min_format": 121,
+        "max_format": 9999,
+        "directory": "26.3"
       }
     ]
   }

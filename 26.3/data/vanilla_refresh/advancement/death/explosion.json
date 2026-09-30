@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {
+        "killing_blow": {
+          "tags": [
+            {
+              "expected": true,
+              "id": "minecraft:explosion"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "parent": "vanilla_refresh:death/arrow"
+}

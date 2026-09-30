@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": "tripwire_hook"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "vanilla_refresh:entity/armor_stand/raycast_swap_to_rack"
+  }
+}

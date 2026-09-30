@@ -1,0 +1,73 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type": "minecraft:all_of",
+          "terms": [
+            {
+              "type": "minecraft:int_value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": "this",
+                "score": "refresh_carrot"
+              },
+              "test": {
+                "min": 1
+              }
+            },
+            {
+              "type": "minecraft:any_of",
+              "terms": [
+                {
+                  "type": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "equipment": {
+                      "mainhand": {
+                        "items": [
+                          "minecraft:carrot_on_a_stick"
+                        ],
+                        "predicates": {
+                          "minecraft:custom_data": {
+                            "VanillaRefreshToolBrushMob": 4
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "type": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "equipment": {
+                      "offhand": {
+                        "items": [
+                          "minecraft:carrot_on_a_stick"
+                        ],
+                        "predicates": {
+                          "minecraft:custom_data": {
+                            "VanillaRefreshToolBrushMob": 4
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "parent": "vanilla_refresh:wand/brush_cookie",
+  "rewards": {
+    "function": "vanilla_refresh:wand/z/any"
+  },
+  "#x_rewards": {
+    "function": "vanilla_refresh:wand/z/brush_mob_32"
+  }
+}

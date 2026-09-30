@@ -1,0 +1,128 @@
+{
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond"
+      }
+    },
+    "diamond_axe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_axe"
+      }
+    },
+    "diamond_block": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_block"
+      }
+    },
+    "diamond_boots": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_boots"
+      }
+    },
+    "diamond_chestplate": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_chestplate"
+      }
+    },
+    "diamond_from_blasting_deepslate_diamond_ore": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_from_blasting_deepslate_diamond_ore"
+      }
+    },
+    "diamond_from_blasting_diamond_ore": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_from_blasting_diamond_ore"
+      }
+    },
+    "diamond_from_smelting_deepslate_diamond_ore": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_from_smelting_deepslate_diamond_ore"
+      }
+    },
+    "diamond_from_smelting_diamond_ore": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_from_smelting_diamond_ore"
+      }
+    },
+    "diamond_helmet": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_helmet"
+      }
+    },
+    "diamond_hoe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_hoe"
+      }
+    },
+    "diamond_leggings": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_leggings"
+      }
+    },
+    "diamond_pickaxe": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_pickaxe"
+      }
+    },
+    "diamond_shovel": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_shovel"
+      }
+    },
+    "diamond_sword": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_sword"
+      }
+    },
+    "diamond_spear": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "diamond_spear"
+      }
+    },
+    "end_crystal": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "end_crystal"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "diamond",
+      "diamond_axe",
+      "diamond_block",
+      "diamond_boots",
+      "diamond_chestplate",
+      "diamond_from_blasting_deepslate_diamond_ore",
+      "diamond_from_blasting_diamond_ore",
+      "diamond_from_smelting_deepslate_diamond_ore",
+      "diamond_from_smelting_diamond_ore",
+      "diamond_helmet",
+      "diamond_hoe",
+      "diamond_leggings",
+      "diamond_pickaxe",
+      "diamond_shovel",
+      "diamond_sword",
+      "diamond_spear",
+      "end_crystal"
+    ]
+  ],
+  "parent": "vanilla_refresh:craft/any"
+}

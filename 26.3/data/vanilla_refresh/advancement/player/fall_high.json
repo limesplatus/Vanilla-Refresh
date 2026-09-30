@@ -1,0 +1,11 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": "vanilla_refresh:condition/fall_4_blocks"
+      }
+    }
+  }
+}
+  

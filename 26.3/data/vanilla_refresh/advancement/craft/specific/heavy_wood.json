@@ -1,0 +1,51 @@
+{
+  "criteria": {
+    "chest": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "chest"
+      }
+    },
+    "copper_chest": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "copper_chest"
+      }
+    },
+    "ender_chest": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "ender_chest"
+      }
+    },
+    "barrel": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "barrel"
+      }
+    },
+    "fletching_table": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "fletching_table"
+      }
+    },
+    "cartography_table": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "cartography_table"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "chest",
+      "copper_chest",
+      "ender_chest",
+      "barrel",
+      "cartography_table",
+      "fletching_table"
+    ]
+  ],
+  "parent": "vanilla_refresh:craft/any"
+}
