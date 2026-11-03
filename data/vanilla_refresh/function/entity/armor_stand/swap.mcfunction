@@ -4,7 +4,7 @@
 execute unless score @s refresh_count matches 12..13 if score @s refresh_count matches 1.. run scoreboard players add @s refresh_count 1
 
 
-execute if score @s refresh_count matches 1.. run data remove entity @s Pose
+execute if score @s refresh_count matches 1.. run data modify entity @s Pose set value {}
 execute if score @s refresh_count matches 1.. run data merge entity @s {NoGravity:0b,Pose:{},ShowArms:1b}
 
 
