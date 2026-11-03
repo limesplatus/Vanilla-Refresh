@@ -444,6 +444,36 @@
         "recipes": "black_concrete_powder"
       }
     },
+    "black_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "black_concrete_slab"
+      }
+    },
+    "black_concrete_slab_from_black_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "black_concrete_slab_from_black_concrete_stonecutting"
+      }
+    },
+    "black_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "black_concrete_stairs"
+      }
+    },
+    "black_concrete_stairs_from_black_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "black_concrete_stairs_from_black_concrete_stonecutting"
+      }
+    },
+    "black_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "black_cushion"
+      }
+    },
     "black_dye": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -496,6 +526,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "black_terracotta"
+      }
+    },
+    "black_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "black_wool_slab"
+      }
+    },
+    "black_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "black_wool_stairs"
       }
     },
     "blackstone_slab": {
@@ -588,6 +630,36 @@
         "recipes": "blue_concrete_powder"
       }
     },
+    "blue_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "blue_concrete_slab"
+      }
+    },
+    "blue_concrete_slab_from_blue_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "blue_concrete_slab_from_blue_concrete_stonecutting"
+      }
+    },
+    "blue_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "blue_concrete_stairs"
+      }
+    },
+    "blue_concrete_stairs_from_blue_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "blue_concrete_stairs_from_blue_concrete_stonecutting"
+      }
+    },
+    "blue_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "blue_cushion"
+      }
+    },
     "blue_dye": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -646,6 +718,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "blue_terracotta"
+      }
+    },
+    "blue_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "blue_wool_slab"
+      }
+    },
+    "blue_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "blue_wool_stairs"
       }
     },
     "bolt_armor_trim_smithing_template": {
@@ -816,6 +900,36 @@
         "recipes": "brown_concrete_powder"
       }
     },
+    "brown_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "brown_concrete_slab"
+      }
+    },
+    "brown_concrete_slab_from_brown_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "brown_concrete_slab_from_brown_concrete_stonecutting"
+      }
+    },
+    "brown_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "brown_concrete_stairs"
+      }
+    },
+    "brown_concrete_stairs_from_brown_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "brown_concrete_stairs_from_brown_concrete_stonecutting"
+      }
+    },
+    "brown_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "brown_cushion"
+      }
+    },
     "brown_dye": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -862,6 +976,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "brown_terracotta"
+      }
+    },
+    "brown_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "brown_wool_slab"
+      }
+    },
+    "brown_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "brown_wool_stairs"
       }
     },
     "brush": {
@@ -2184,6 +2310,36 @@
         "recipes": "cyan_concrete_powder"
       }
     },
+    "cyan_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "cyan_concrete_slab"
+      }
+    },
+    "cyan_concrete_slab_from_cyan_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "cyan_concrete_slab_from_cyan_concrete_stonecutting"
+      }
+    },
+    "cyan_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "cyan_concrete_stairs"
+      }
+    },
+    "cyan_concrete_stairs_from_cyan_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "cyan_concrete_stairs_from_cyan_concrete_stonecutting"
+      }
+    },
+    "cyan_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "cyan_cushion"
+      }
+    },
     "cyan_dye": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -2236,6 +2392,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "cyan_terracotta"
+      }
+    },
+    "cyan_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "cyan_wool_slab"
+      }
+    },
+    "cyan_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "cyan_wool_stairs"
       }
     },
     "dark_oak_boat": {
@@ -2856,6 +3024,12 @@
         "recipes": "dye_black_carpet"
       }
     },
+    "dye_black_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_black_cushion"
+      }
+    },
     "dye_black_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -2866,6 +3040,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_black_wool"
+      }
+    },
+    "dye_black_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_black_wool_slab"
+      }
+    },
+    "dye_black_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_black_wool_stairs"
       }
     },
     "dye_blue_bed": {
@@ -2880,6 +3066,12 @@
         "recipes": "dye_blue_carpet"
       }
     },
+    "dye_blue_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_blue_cushion"
+      }
+    },
     "dye_blue_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -2890,6 +3082,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_blue_wool"
+      }
+    },
+    "dye_blue_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_blue_wool_slab"
+      }
+    },
+    "dye_blue_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_blue_wool_stairs"
       }
     },
     "dye_brown_bed": {
@@ -2904,6 +3108,12 @@
         "recipes": "dye_brown_carpet"
       }
     },
+    "dye_brown_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_brown_cushion"
+      }
+    },
     "dye_brown_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -2914,6 +3124,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_brown_wool"
+      }
+    },
+    "dye_brown_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_brown_wool_slab"
+      }
+    },
+    "dye_brown_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_brown_wool_stairs"
       }
     },
     "dye_cyan_bed": {
@@ -2928,6 +3150,12 @@
         "recipes": "dye_cyan_carpet"
       }
     },
+    "dye_cyan_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_cyan_cushion"
+      }
+    },
     "dye_cyan_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -2938,6 +3166,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_cyan_wool"
+      }
+    },
+    "dye_cyan_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_cyan_wool_slab"
+      }
+    },
+    "dye_cyan_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_cyan_wool_stairs"
       }
     },
     "dye_gray_bed": {
@@ -2952,6 +3192,12 @@
         "recipes": "dye_gray_carpet"
       }
     },
+    "dye_gray_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_gray_cushion"
+      }
+    },
     "dye_gray_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -2962,6 +3208,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_gray_wool"
+      }
+    },
+    "dye_gray_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_gray_wool_slab"
+      }
+    },
+    "dye_gray_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_gray_wool_stairs"
       }
     },
     "dye_green_bed": {
@@ -2976,6 +3234,12 @@
         "recipes": "dye_green_carpet"
       }
     },
+    "dye_green_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_green_cushion"
+      }
+    },
     "dye_green_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -2986,6 +3250,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_green_wool"
+      }
+    },
+    "dye_green_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_green_wool_slab"
+      }
+    },
+    "dye_green_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_green_wool_stairs"
       }
     },
     "dye_light_blue_bed": {
@@ -3000,6 +3276,12 @@
         "recipes": "dye_light_blue_carpet"
       }
     },
+    "dye_light_blue_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_light_blue_cushion"
+      }
+    },
     "dye_light_blue_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -3010,6 +3292,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_light_blue_wool"
+      }
+    },
+    "dye_light_blue_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_light_blue_wool_slab"
+      }
+    },
+    "dye_light_blue_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_light_blue_wool_stairs"
       }
     },
     "dye_light_gray_bed": {
@@ -3024,6 +3318,12 @@
         "recipes": "dye_light_gray_carpet"
       }
     },
+    "dye_light_gray_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_light_gray_cushion"
+      }
+    },
     "dye_light_gray_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -3034,6 +3334,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_light_gray_wool"
+      }
+    },
+    "dye_light_gray_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_light_gray_wool_slab"
+      }
+    },
+    "dye_light_gray_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_light_gray_wool_stairs"
       }
     },
     "dye_lime_bed": {
@@ -3048,6 +3360,12 @@
         "recipes": "dye_lime_carpet"
       }
     },
+    "dye_lime_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_lime_cushion"
+      }
+    },
     "dye_lime_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -3058,6 +3376,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_lime_wool"
+      }
+    },
+    "dye_lime_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_lime_wool_slab"
+      }
+    },
+    "dye_lime_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_lime_wool_stairs"
       }
     },
     "dye_magenta_bed": {
@@ -3072,6 +3402,12 @@
         "recipes": "dye_magenta_carpet"
       }
     },
+    "dye_magenta_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_magenta_cushion"
+      }
+    },
     "dye_magenta_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -3082,6 +3418,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_magenta_wool"
+      }
+    },
+    "dye_magenta_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_magenta_wool_slab"
+      }
+    },
+    "dye_magenta_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_magenta_wool_stairs"
       }
     },
     "dye_orange_bed": {
@@ -3096,6 +3444,12 @@
         "recipes": "dye_orange_carpet"
       }
     },
+    "dye_orange_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_orange_cushion"
+      }
+    },
     "dye_orange_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -3106,6 +3460,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_orange_wool"
+      }
+    },
+    "dye_orange_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_orange_wool_slab"
+      }
+    },
+    "dye_orange_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_orange_wool_stairs"
       }
     },
     "dye_pink_bed": {
@@ -3120,6 +3486,12 @@
         "recipes": "dye_pink_carpet"
       }
     },
+    "dye_pink_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_pink_cushion"
+      }
+    },
     "dye_pink_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -3130,6 +3502,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_pink_wool"
+      }
+    },
+    "dye_pink_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_pink_wool_slab"
+      }
+    },
+    "dye_pink_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_pink_wool_stairs"
       }
     },
     "dye_purple_bed": {
@@ -3144,6 +3528,12 @@
         "recipes": "dye_purple_carpet"
       }
     },
+    "dye_purple_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_purple_cushion"
+      }
+    },
     "dye_purple_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -3154,6 +3544,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_purple_wool"
+      }
+    },
+    "dye_purple_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_purple_wool_slab"
+      }
+    },
+    "dye_purple_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_purple_wool_stairs"
       }
     },
     "dye_red_bed": {
@@ -3168,6 +3570,12 @@
         "recipes": "dye_red_carpet"
       }
     },
+    "dye_red_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_red_cushion"
+      }
+    },
     "dye_red_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -3178,6 +3586,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_red_wool"
+      }
+    },
+    "dye_red_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_red_wool_slab"
+      }
+    },
+    "dye_red_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_red_wool_stairs"
       }
     },
     "dye_white_bed": {
@@ -3192,6 +3612,12 @@
         "recipes": "dye_white_carpet"
       }
     },
+    "dye_white_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_white_cushion"
+      }
+    },
     "dye_white_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -3202,6 +3628,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_white_wool"
+      }
+    },
+    "dye_white_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_white_wool_slab"
+      }
+    },
+    "dye_white_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_white_wool_stairs"
       }
     },
     "dye_yellow_bed": {
@@ -3216,6 +3654,12 @@
         "recipes": "dye_yellow_carpet"
       }
     },
+    "dye_yellow_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_yellow_cushion"
+      }
+    },
     "dye_yellow_harness": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -3226,6 +3670,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "dye_yellow_wool"
+      }
+    },
+    "dye_yellow_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_yellow_wool_slab"
+      }
+    },
+    "dye_yellow_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "dye_yellow_wool_stairs"
       }
     },
     "emerald": {
@@ -3834,6 +4290,36 @@
         "recipes": "gray_concrete_powder"
       }
     },
+    "gray_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "gray_concrete_slab"
+      }
+    },
+    "gray_concrete_slab_from_gray_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "gray_concrete_slab_from_gray_concrete_stonecutting"
+      }
+    },
+    "gray_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "gray_concrete_stairs"
+      }
+    },
+    "gray_concrete_stairs_from_gray_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "gray_concrete_stairs_from_gray_concrete_stonecutting"
+      }
+    },
+    "gray_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "gray_cushion"
+      }
+    },
     "gray_dye": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -3888,6 +4374,18 @@
         "recipes": "gray_terracotta"
       }
     },
+    "gray_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "gray_wool_slab"
+      }
+    },
+    "gray_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "gray_wool_stairs"
+      }
+    },
     "green_banner": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -3928,6 +4426,36 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "green_concrete_powder"
+      }
+    },
+    "green_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "green_concrete_slab"
+      }
+    },
+    "green_concrete_slab_from_green_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "green_concrete_slab_from_green_concrete_stonecutting"
+      }
+    },
+    "green_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "green_concrete_stairs"
+      }
+    },
+    "green_concrete_stairs_from_green_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "green_concrete_stairs_from_green_concrete_stonecutting"
+      }
+    },
+    "green_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "green_cushion"
       }
     },
     "green_dye": {
@@ -3976,6 +4504,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "green_terracotta"
+      }
+    },
+    "green_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "green_wool_slab"
+      }
+    },
+    "green_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "green_wool_stairs"
       }
     },
     "grindstone": {
@@ -4482,6 +5022,36 @@
         "recipes": "light_blue_concrete_powder"
       }
     },
+    "light_blue_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "light_blue_concrete_slab"
+      }
+    },
+    "light_blue_concrete_slab_from_light_blue_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "light_blue_concrete_slab_from_light_blue_concrete_stonecutting"
+      }
+    },
+    "light_blue_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "light_blue_concrete_stairs"
+      }
+    },
+    "light_blue_concrete_stairs_from_light_blue_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "light_blue_concrete_stairs_from_light_blue_concrete_stonecutting"
+      }
+    },
+    "light_blue_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "light_blue_cushion"
+      }
+    },
     "light_blue_dye_from_blue_orchid": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -4536,6 +5106,18 @@
         "recipes": "light_blue_terracotta"
       }
     },
+    "light_blue_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "light_blue_wool_slab"
+      }
+    },
+    "light_blue_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "light_blue_wool_stairs"
+      }
+    },
     "light_gray_banner": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -4576,6 +5158,36 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "light_gray_concrete_powder"
+      }
+    },
+    "light_gray_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "light_gray_concrete_slab"
+      }
+    },
+    "light_gray_concrete_slab_from_light_gray_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "light_gray_concrete_slab_from_light_gray_concrete_stonecutting"
+      }
+    },
+    "light_gray_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "light_gray_concrete_stairs"
+      }
+    },
+    "light_gray_concrete_stairs_from_light_gray_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "light_gray_concrete_stairs_from_light_gray_concrete_stonecutting"
+      }
+    },
+    "light_gray_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "light_gray_cushion"
       }
     },
     "light_gray_dye_from_azure_bluet": {
@@ -4650,6 +5262,18 @@
         "recipes": "light_gray_terracotta"
       }
     },
+    "light_gray_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "light_gray_wool_slab"
+      }
+    },
+    "light_gray_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "light_gray_wool_stairs"
+      }
+    },
     "light_weighted_pressure_plate": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -4704,6 +5328,36 @@
         "recipes": "lime_concrete_powder"
       }
     },
+    "lime_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "lime_concrete_slab"
+      }
+    },
+    "lime_concrete_slab_from_lime_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "lime_concrete_slab_from_lime_concrete_stonecutting"
+      }
+    },
+    "lime_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "lime_concrete_stairs"
+      }
+    },
+    "lime_concrete_stairs_from_lime_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "lime_concrete_stairs_from_lime_concrete_stonecutting"
+      }
+    },
+    "lime_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "lime_cushion"
+      }
+    },
     "lime_dye": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -4756,6 +5410,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "lime_terracotta"
+      }
+    },
+    "lime_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "lime_wool_slab"
+      }
+    },
+    "lime_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "lime_wool_stairs"
       }
     },
     "lodestone": {
@@ -4816,6 +5482,36 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "magenta_concrete_powder"
+      }
+    },
+    "magenta_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "magenta_concrete_slab"
+      }
+    },
+    "magenta_concrete_slab_from_magenta_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "magenta_concrete_slab_from_magenta_concrete_stonecutting"
+      }
+    },
+    "magenta_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "magenta_concrete_stairs"
+      }
+    },
+    "magenta_concrete_stairs_from_magenta_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "magenta_concrete_stairs_from_magenta_concrete_stonecutting"
+      }
+    },
+    "magenta_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "magenta_cushion"
       }
     },
     "magenta_dye_from_allium": {
@@ -4888,6 +5584,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "magenta_terracotta"
+      }
+    },
+    "magenta_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "magenta_wool_slab"
+      }
+    },
+    "magenta_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "magenta_wool_stairs"
       }
     },
     "magma_block": {
@@ -5514,6 +6222,36 @@
         "recipes": "orange_concrete_powder"
       }
     },
+    "orange_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "orange_concrete_slab"
+      }
+    },
+    "orange_concrete_slab_from_orange_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "orange_concrete_slab_from_orange_concrete_stonecutting"
+      }
+    },
+    "orange_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "orange_concrete_stairs"
+      }
+    },
+    "orange_concrete_stairs_from_orange_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "orange_concrete_stairs_from_orange_concrete_stonecutting"
+      }
+    },
+    "orange_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "orange_cushion"
+      }
+    },
     "orange_dye_from_open_eyeblossom": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -5578,6 +6316,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "orange_terracotta"
+      }
+    },
+    "orange_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "orange_wool_slab"
+      }
+    },
+    "orange_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "orange_wool_stairs"
       }
     },
     "oxidized_chiseled_copper": {
@@ -5826,6 +6576,36 @@
         "recipes": "pink_concrete_powder"
       }
     },
+    "pink_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "pink_concrete_slab"
+      }
+    },
+    "pink_concrete_slab_from_pink_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "pink_concrete_slab_from_pink_concrete_stonecutting"
+      }
+    },
+    "pink_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "pink_concrete_stairs"
+      }
+    },
+    "pink_concrete_stairs_from_pink_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "pink_concrete_stairs_from_pink_concrete_stonecutting"
+      }
+    },
+    "pink_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "pink_cushion"
+      }
+    },
     "pink_dye_from_cactus_flower": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -5896,6 +6676,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "pink_terracotta"
+      }
+    },
+    "pink_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "pink_wool_slab"
+      }
+    },
+    "pink_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "pink_wool_stairs"
       }
     },
     "piston": {
@@ -6516,6 +7308,96 @@
         "recipes": "polished_tuff_wall_from_tuff_stonecutting"
       }
     },
+    "poplar_boat": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_boat"
+      }
+    },
+    "poplar_button": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_button"
+      }
+    },
+    "poplar_chest_boat": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_chest_boat"
+      }
+    },
+    "poplar_door": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_door"
+      }
+    },
+    "poplar_fence": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_fence"
+      }
+    },
+    "poplar_fence_gate": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_fence_gate"
+      }
+    },
+    "poplar_hanging_sign": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_hanging_sign"
+      }
+    },
+    "poplar_planks": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_planks"
+      }
+    },
+    "poplar_pressure_plate": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_pressure_plate"
+      }
+    },
+    "poplar_shelf": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_shelf"
+      }
+    },
+    "poplar_sign": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_sign"
+      }
+    },
+    "poplar_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_slab"
+      }
+    },
+    "poplar_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_stairs"
+      }
+    },
+    "poplar_trapdoor": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_trapdoor"
+      }
+    },
+    "poplar_wood": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "poplar_wood"
+      }
+    },
     "popped_chorus_fruit": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -6660,6 +7542,36 @@
         "recipes": "purple_concrete_powder"
       }
     },
+    "purple_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "purple_concrete_slab"
+      }
+    },
+    "purple_concrete_slab_from_purple_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "purple_concrete_slab_from_purple_concrete_stonecutting"
+      }
+    },
+    "purple_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "purple_concrete_stairs"
+      }
+    },
+    "purple_concrete_stairs_from_purple_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "purple_concrete_stairs_from_purple_concrete_stonecutting"
+      }
+    },
+    "purple_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "purple_cushion"
+      }
+    },
     "purple_dye": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -6706,6 +7618,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "purple_terracotta"
+      }
+    },
+    "purple_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "purple_wool_slab"
+      }
+    },
+    "purple_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "purple_wool_stairs"
       }
     },
     "purpur_block": {
@@ -6828,6 +7752,12 @@
         "recipes": "rabbit_stew_from_red_mushroom"
       }
     },
+    "rabbit_stew_from_shelf_mushroom": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "rabbit_stew_from_shelf_mushroom"
+      }
+    },
     "rail": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -6928,6 +7858,36 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "red_concrete_powder"
+      }
+    },
+    "red_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "red_concrete_slab"
+      }
+    },
+    "red_concrete_slab_from_red_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "red_concrete_slab_from_red_concrete_stonecutting"
+      }
+    },
+    "red_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "red_concrete_stairs"
+      }
+    },
+    "red_concrete_stairs_from_red_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "red_concrete_stairs_from_red_concrete_stonecutting"
+      }
+    },
+    "red_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "red_cushion"
       }
     },
     "red_dye_from_beetroot": {
@@ -7078,6 +8038,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "red_terracotta"
+      }
+    },
+    "red_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "red_wool_slab"
+      }
+    },
+    "red_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "red_wool_stairs"
       }
     },
     "redstone": {
@@ -7812,6 +8784,12 @@
         "recipes": "stonecutter"
       }
     },
+    "straw_bed": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "straw_bed"
+      }
+    },
     "stripped_acacia_wood": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -7864,6 +8842,12 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "stripped_pale_oak_wood"
+      }
+    },
+    "stripped_poplar_wood": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "stripped_poplar_wood"
       }
     },
     "stripped_spruce_wood": {
@@ -9270,6 +10254,36 @@
         "recipes": "white_concrete_powder"
       }
     },
+    "white_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "white_concrete_slab"
+      }
+    },
+    "white_concrete_slab_from_white_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "white_concrete_slab_from_white_concrete_stonecutting"
+      }
+    },
+    "white_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "white_concrete_stairs"
+      }
+    },
+    "white_concrete_stairs_from_white_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "white_concrete_stairs_from_white_concrete_stonecutting"
+      }
+    },
+    "white_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "white_cushion"
+      }
+    },
     "white_dye": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -9328,6 +10342,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "white_wool_from_string"
+      }
+    },
+    "white_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "white_wool_slab"
+      }
+    },
+    "white_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "white_wool_stairs"
       }
     },
     "wild_armor_trim_smithing_template": {
@@ -9444,6 +10470,36 @@
         "recipes": "yellow_concrete_powder"
       }
     },
+    "yellow_concrete_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "yellow_concrete_slab"
+      }
+    },
+    "yellow_concrete_slab_from_yellow_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "yellow_concrete_slab_from_yellow_concrete_stonecutting"
+      }
+    },
+    "yellow_concrete_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "yellow_concrete_stairs"
+      }
+    },
+    "yellow_concrete_stairs_from_yellow_concrete_stonecutting": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "yellow_concrete_stairs_from_yellow_concrete_stonecutting"
+      }
+    },
+    "yellow_cushion": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "yellow_cushion"
+      }
+    },
     "yellow_dye_from_dandelion": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
@@ -9508,6 +10564,18 @@
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
         "recipes": "yellow_terracotta"
+      }
+    },
+    "yellow_wool_slab": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "yellow_wool_slab"
+      }
+    },
+    "yellow_wool_stairs": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "yellow_wool_stairs"
       }
     }
   },
@@ -9587,6 +10655,11 @@
       "black_candle",
       "black_carpet",
       "black_concrete_powder",
+      "black_concrete_slab",
+      "black_concrete_slab_from_black_concrete_stonecutting",
+      "black_concrete_stairs",
+      "black_concrete_stairs_from_black_concrete_stonecutting",
+      "black_cushion",
       "black_dye",
       "black_dye_from_wither_rose",
       "black_glazed_terracotta",
@@ -9596,6 +10669,8 @@
       "black_stained_glass_pane",
       "black_stained_glass_pane_from_glass_pane",
       "black_terracotta",
+      "black_wool_slab",
+      "black_wool_stairs",
       "blackstone_slab",
       "blackstone_slab_from_blackstone_stonecutting",
       "blackstone_stairs",
@@ -9611,6 +10686,11 @@
       "blue_candle",
       "blue_carpet",
       "blue_concrete_powder",
+      "blue_concrete_slab",
+      "blue_concrete_slab_from_blue_concrete_stonecutting",
+      "blue_concrete_stairs",
+      "blue_concrete_stairs_from_blue_concrete_stonecutting",
+      "blue_cushion",
       "blue_dye",
       "blue_dye_from_cornflower",
       "blue_glazed_terracotta",
@@ -9621,6 +10701,8 @@
       "blue_stained_glass_pane",
       "blue_stained_glass_pane_from_glass_pane",
       "blue_terracotta",
+      "blue_wool_slab",
+      "blue_wool_stairs",
       "bolt_armor_trim_smithing_template",
       "bolt_armor_trim_smithing_template_smithing_trim",
       "bone_block",
@@ -9649,6 +10731,11 @@
       "brown_candle",
       "brown_carpet",
       "brown_concrete_powder",
+      "brown_concrete_slab",
+      "brown_concrete_slab_from_brown_concrete_stonecutting",
+      "brown_concrete_stairs",
+      "brown_concrete_stairs_from_brown_concrete_stonecutting",
+      "brown_cushion",
       "brown_dye",
       "brown_glazed_terracotta",
       "brown_harness",
@@ -9657,6 +10744,8 @@
       "brown_stained_glass_pane",
       "brown_stained_glass_pane_from_glass_pane",
       "brown_terracotta",
+      "brown_wool_slab",
+      "brown_wool_stairs",
       "brush",
       "bucket",
       "bundle",
@@ -9877,6 +10966,11 @@
       "cyan_candle",
       "cyan_carpet",
       "cyan_concrete_powder",
+      "cyan_concrete_slab",
+      "cyan_concrete_slab_from_cyan_concrete_stonecutting",
+      "cyan_concrete_stairs",
+      "cyan_concrete_stairs_from_cyan_concrete_stonecutting",
+      "cyan_cushion",
       "cyan_dye",
       "cyan_dye_from_pitcher_plant",
       "cyan_glazed_terracotta",
@@ -9886,6 +10980,8 @@
       "cyan_stained_glass_pane",
       "cyan_stained_glass_pane_from_glass_pane",
       "cyan_terracotta",
+      "cyan_wool_slab",
+      "cyan_wool_stairs",
       "dark_oak_boat",
       "dark_oak_button",
       "dark_oak_chest_boat",
@@ -9989,68 +11085,116 @@
       "dune_armor_trim_smithing_template_smithing_trim",
       "dye_black_bed",
       "dye_black_carpet",
+      "dye_black_cushion",
       "dye_black_harness",
       "dye_black_wool",
+      "dye_black_wool_slab",
+      "dye_black_wool_stairs",
       "dye_blue_bed",
       "dye_blue_carpet",
+      "dye_blue_cushion",
       "dye_blue_harness",
       "dye_blue_wool",
+      "dye_blue_wool_slab",
+      "dye_blue_wool_stairs",
       "dye_brown_bed",
       "dye_brown_carpet",
+      "dye_brown_cushion",
       "dye_brown_harness",
       "dye_brown_wool",
+      "dye_brown_wool_slab",
+      "dye_brown_wool_stairs",
       "dye_cyan_bed",
       "dye_cyan_carpet",
+      "dye_cyan_cushion",
       "dye_cyan_harness",
       "dye_cyan_wool",
+      "dye_cyan_wool_slab",
+      "dye_cyan_wool_stairs",
       "dye_gray_bed",
       "dye_gray_carpet",
+      "dye_gray_cushion",
       "dye_gray_harness",
       "dye_gray_wool",
+      "dye_gray_wool_slab",
+      "dye_gray_wool_stairs",
       "dye_green_bed",
       "dye_green_carpet",
+      "dye_green_cushion",
       "dye_green_harness",
       "dye_green_wool",
+      "dye_green_wool_slab",
+      "dye_green_wool_stairs",
       "dye_light_blue_bed",
       "dye_light_blue_carpet",
+      "dye_light_blue_cushion",
       "dye_light_blue_harness",
       "dye_light_blue_wool",
+      "dye_light_blue_wool_slab",
+      "dye_light_blue_wool_stairs",
       "dye_light_gray_bed",
       "dye_light_gray_carpet",
+      "dye_light_gray_cushion",
       "dye_light_gray_harness",
       "dye_light_gray_wool",
+      "dye_light_gray_wool_slab",
+      "dye_light_gray_wool_stairs",
       "dye_lime_bed",
       "dye_lime_carpet",
+      "dye_lime_cushion",
       "dye_lime_harness",
       "dye_lime_wool",
+      "dye_lime_wool_slab",
+      "dye_lime_wool_stairs",
       "dye_magenta_bed",
       "dye_magenta_carpet",
+      "dye_magenta_cushion",
       "dye_magenta_harness",
       "dye_magenta_wool",
+      "dye_magenta_wool_slab",
+      "dye_magenta_wool_stairs",
       "dye_orange_bed",
       "dye_orange_carpet",
+      "dye_orange_cushion",
       "dye_orange_harness",
       "dye_orange_wool",
+      "dye_orange_wool_slab",
+      "dye_orange_wool_stairs",
       "dye_pink_bed",
       "dye_pink_carpet",
+      "dye_pink_cushion",
       "dye_pink_harness",
       "dye_pink_wool",
+      "dye_pink_wool_slab",
+      "dye_pink_wool_stairs",
       "dye_purple_bed",
       "dye_purple_carpet",
+      "dye_purple_cushion",
       "dye_purple_harness",
       "dye_purple_wool",
+      "dye_purple_wool_slab",
+      "dye_purple_wool_stairs",
       "dye_red_bed",
       "dye_red_carpet",
+      "dye_red_cushion",
       "dye_red_harness",
       "dye_red_wool",
+      "dye_red_wool_slab",
+      "dye_red_wool_stairs",
       "dye_white_bed",
       "dye_white_carpet",
+      "dye_white_cushion",
       "dye_white_harness",
       "dye_white_wool",
+      "dye_white_wool_slab",
+      "dye_white_wool_stairs",
       "dye_yellow_bed",
       "dye_yellow_carpet",
+      "dye_yellow_cushion",
       "dye_yellow_harness",
       "dye_yellow_wool",
+      "dye_yellow_wool_slab",
+      "dye_yellow_wool_stairs",
       "emerald",
       "emerald_block",
       "emerald_from_blasting_deepslate_emerald_ore",
@@ -10152,6 +11296,11 @@
       "gray_candle",
       "gray_carpet",
       "gray_concrete_powder",
+      "gray_concrete_slab",
+      "gray_concrete_slab_from_gray_concrete_stonecutting",
+      "gray_concrete_stairs",
+      "gray_concrete_stairs_from_gray_concrete_stonecutting",
+      "gray_cushion",
       "gray_dye",
       "gray_dye_from_closed_eyeblossom",
       "gray_glazed_terracotta",
@@ -10161,6 +11310,8 @@
       "gray_stained_glass_pane",
       "gray_stained_glass_pane_from_glass_pane",
       "gray_terracotta",
+      "gray_wool_slab",
+      "gray_wool_stairs",
       "green_banner",
       "green_banner_duplicate",
       "green_bed",
@@ -10168,6 +11319,11 @@
       "green_candle",
       "green_carpet",
       "green_concrete_powder",
+      "green_concrete_slab",
+      "green_concrete_slab_from_green_concrete_stonecutting",
+      "green_concrete_stairs",
+      "green_concrete_stairs_from_green_concrete_stonecutting",
+      "green_cushion",
       "green_dye",
       "green_glazed_terracotta",
       "green_harness",
@@ -10176,6 +11332,8 @@
       "green_stained_glass_pane",
       "green_stained_glass_pane_from_glass_pane",
       "green_terracotta",
+      "green_wool_slab",
+      "green_wool_stairs",
       "grindstone",
       "hay_block",
       "heavy_weighted_pressure_plate",
@@ -10260,6 +11418,11 @@
       "light_blue_candle",
       "light_blue_carpet",
       "light_blue_concrete_powder",
+      "light_blue_concrete_slab",
+      "light_blue_concrete_slab_from_light_blue_concrete_stonecutting",
+      "light_blue_concrete_stairs",
+      "light_blue_concrete_stairs_from_light_blue_concrete_stonecutting",
+      "light_blue_cushion",
       "light_blue_dye_from_blue_orchid",
       "light_blue_dye_from_blue_white_dye",
       "light_blue_glazed_terracotta",
@@ -10269,6 +11432,8 @@
       "light_blue_stained_glass_pane",
       "light_blue_stained_glass_pane_from_glass_pane",
       "light_blue_terracotta",
+      "light_blue_wool_slab",
+      "light_blue_wool_stairs",
       "light_gray_banner",
       "light_gray_banner_duplicate",
       "light_gray_bed",
@@ -10276,6 +11441,11 @@
       "light_gray_candle",
       "light_gray_carpet",
       "light_gray_concrete_powder",
+      "light_gray_concrete_slab",
+      "light_gray_concrete_slab_from_light_gray_concrete_stonecutting",
+      "light_gray_concrete_stairs",
+      "light_gray_concrete_stairs_from_light_gray_concrete_stonecutting",
+      "light_gray_cushion",
       "light_gray_dye_from_azure_bluet",
       "light_gray_dye_from_black_white_dye",
       "light_gray_dye_from_gray_white_dye",
@@ -10288,6 +11458,8 @@
       "light_gray_stained_glass_pane",
       "light_gray_stained_glass_pane_from_glass_pane",
       "light_gray_terracotta",
+      "light_gray_wool_slab",
+      "light_gray_wool_stairs",
       "light_weighted_pressure_plate",
       "lightning_rod",
       "lime_banner",
@@ -10297,6 +11469,11 @@
       "lime_candle",
       "lime_carpet",
       "lime_concrete_powder",
+      "lime_concrete_slab",
+      "lime_concrete_slab_from_lime_concrete_stonecutting",
+      "lime_concrete_stairs",
+      "lime_concrete_stairs_from_lime_concrete_stonecutting",
+      "lime_cushion",
       "lime_dye",
       "lime_dye_from_smelting",
       "lime_glazed_terracotta",
@@ -10306,6 +11483,8 @@
       "lime_stained_glass_pane",
       "lime_stained_glass_pane_from_glass_pane",
       "lime_terracotta",
+      "lime_wool_slab",
+      "lime_wool_stairs",
       "lodestone",
       "loom",
       "mace",
@@ -10316,6 +11495,11 @@
       "magenta_candle",
       "magenta_carpet",
       "magenta_concrete_powder",
+      "magenta_concrete_slab",
+      "magenta_concrete_slab_from_magenta_concrete_stonecutting",
+      "magenta_concrete_stairs",
+      "magenta_concrete_stairs_from_magenta_concrete_stonecutting",
+      "magenta_cushion",
       "magenta_dye_from_allium",
       "magenta_dye_from_blue_red_pink",
       "magenta_dye_from_blue_red_white_dye",
@@ -10328,6 +11512,8 @@
       "magenta_stained_glass_pane",
       "magenta_stained_glass_pane_from_glass_pane",
       "magenta_terracotta",
+      "magenta_wool_slab",
+      "magenta_wool_stairs",
       "magma_block",
       "magma_cream",
       "mangrove_boat",
@@ -10432,6 +11618,11 @@
       "orange_candle",
       "orange_carpet",
       "orange_concrete_powder",
+      "orange_concrete_slab",
+      "orange_concrete_slab_from_orange_concrete_stonecutting",
+      "orange_concrete_stairs",
+      "orange_concrete_stairs_from_orange_concrete_stonecutting",
+      "orange_cushion",
       "orange_dye_from_open_eyeblossom",
       "orange_dye_from_orange_tulip",
       "orange_dye_from_red_yellow",
@@ -10443,6 +11634,8 @@
       "orange_stained_glass_pane",
       "orange_stained_glass_pane_from_glass_pane",
       "orange_terracotta",
+      "orange_wool_slab",
+      "orange_wool_stairs",
       "oxidized_chiseled_copper",
       "oxidized_chiseled_copper_from_oxidized_copper_stonecutting",
       "oxidized_chiseled_copper_from_oxidized_cut_copper_stonecutting",
@@ -10484,6 +11677,11 @@
       "pink_candle",
       "pink_carpet",
       "pink_concrete_powder",
+      "pink_concrete_slab",
+      "pink_concrete_slab_from_pink_concrete_stonecutting",
+      "pink_concrete_stairs",
+      "pink_concrete_stairs_from_pink_concrete_stonecutting",
+      "pink_cushion",
       "pink_dye_from_cactus_flower",
       "pink_dye_from_peony",
       "pink_dye_from_pink_petals",
@@ -10496,6 +11694,8 @@
       "pink_stained_glass_pane",
       "pink_stained_glass_pane_from_glass_pane",
       "pink_terracotta",
+      "pink_wool_slab",
+      "pink_wool_stairs",
       "piston",
       "polished_andesite",
       "polished_andesite_from_andesite_stonecutting",
@@ -10599,6 +11799,21 @@
       "polished_tuff_wall",
       "polished_tuff_wall_from_polished_tuff_stonecutting",
       "polished_tuff_wall_from_tuff_stonecutting",
+      "poplar_boat",
+      "poplar_button",
+      "poplar_chest_boat",
+      "poplar_door",
+      "poplar_fence",
+      "poplar_fence_gate",
+      "poplar_hanging_sign",
+      "poplar_planks",
+      "poplar_pressure_plate",
+      "poplar_shelf",
+      "poplar_sign",
+      "poplar_slab",
+      "poplar_stairs",
+      "poplar_trapdoor",
+      "poplar_wood",
       "popped_chorus_fruit",
       "potent_sulfur",
       "powered_rail",
@@ -10623,6 +11838,11 @@
       "purple_candle",
       "purple_carpet",
       "purple_concrete_powder",
+      "purple_concrete_slab",
+      "purple_concrete_slab_from_purple_concrete_stonecutting",
+      "purple_concrete_stairs",
+      "purple_concrete_stairs_from_purple_concrete_stonecutting",
+      "purple_cushion",
       "purple_dye",
       "purple_glazed_terracotta",
       "purple_harness",
@@ -10631,6 +11851,8 @@
       "purple_stained_glass_pane",
       "purple_stained_glass_pane_from_glass_pane",
       "purple_terracotta",
+      "purple_wool_slab",
+      "purple_wool_stairs",
       "purpur_block",
       "purpur_pillar",
       "purpur_pillar_from_purpur_block_stonecutting",
@@ -10651,6 +11873,7 @@
       "quartz_stairs_from_quartz_block_stonecutting",
       "rabbit_stew_from_brown_mushroom",
       "rabbit_stew_from_red_mushroom",
+      "rabbit_stew_from_shelf_mushroom",
       "rail",
       "raiser_armor_trim_smithing_template",
       "raiser_armor_trim_smithing_template_smithing_trim",
@@ -10668,6 +11891,11 @@
       "red_candle",
       "red_carpet",
       "red_concrete_powder",
+      "red_concrete_slab",
+      "red_concrete_slab_from_red_concrete_stonecutting",
+      "red_concrete_stairs",
+      "red_concrete_stairs_from_red_concrete_stonecutting",
+      "red_cushion",
       "red_dye_from_beetroot",
       "red_dye_from_poppy",
       "red_dye_from_rose_bush",
@@ -10693,6 +11921,8 @@
       "red_stained_glass_pane",
       "red_stained_glass_pane_from_glass_pane",
       "red_terracotta",
+      "red_wool_slab",
+      "red_wool_stairs",
       "redstone",
       "redstone_block",
       "redstone_from_blasting_deepslate_redstone_ore",
@@ -10815,6 +12045,7 @@
       "stone_stairs_from_stone_stonecutting",
       "stone_sword",
       "stonecutter",
+      "straw_bed",
       "stripped_acacia_wood",
       "stripped_birch_wood",
       "stripped_cherry_wood",
@@ -10824,6 +12055,7 @@
       "stripped_mangrove_wood",
       "stripped_oak_wood",
       "stripped_pale_oak_wood",
+      "stripped_poplar_wood",
       "stripped_spruce_wood",
       "stripped_warped_hyphae",
       "sugar_from_honey_bottle",
@@ -11058,6 +12290,11 @@
       "white_candle",
       "white_carpet",
       "white_concrete_powder",
+      "white_concrete_slab",
+      "white_concrete_slab_from_white_concrete_stonecutting",
+      "white_concrete_stairs",
+      "white_concrete_stairs_from_white_concrete_stonecutting",
+      "white_cushion",
       "white_dye",
       "white_dye_from_lily_of_the_valley",
       "white_glazed_terracotta",
@@ -11068,6 +12305,8 @@
       "white_stained_glass_pane_from_glass_pane",
       "white_terracotta",
       "white_wool_from_string",
+      "white_wool_slab",
+      "white_wool_stairs",
       "wild_armor_trim_smithing_template",
       "wild_armor_trim_smithing_template_smithing_trim",
       "wind_charge",
@@ -11087,6 +12326,11 @@
       "yellow_candle",
       "yellow_carpet",
       "yellow_concrete_powder",
+      "yellow_concrete_slab",
+      "yellow_concrete_slab_from_yellow_concrete_stonecutting",
+      "yellow_concrete_stairs",
+      "yellow_concrete_stairs_from_yellow_concrete_stonecutting",
+      "yellow_cushion",
       "yellow_dye_from_dandelion",
       "yellow_dye_from_golden_dandelion",
       "yellow_dye_from_sunflower",
@@ -11097,7 +12341,9 @@
       "yellow_stained_glass",
       "yellow_stained_glass_pane",
       "yellow_stained_glass_pane_from_glass_pane",
-      "yellow_terracotta"
+      "yellow_terracotta",
+      "yellow_wool_slab",
+      "yellow_wool_stairs"
     ]
   ]
 }

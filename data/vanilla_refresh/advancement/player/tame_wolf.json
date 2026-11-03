@@ -4,7 +4,7 @@
         "trigger": "minecraft:tame_animal",
         "conditions": {
           "entity": {
-            "type": "minecraft:wolf"
+            "entity_type": "minecraft:wolf"
           }
         }
       }
