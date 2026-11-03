@@ -1,7 +1,7 @@
 
 tellraw @s [{"text": " "}]
 
-tellraw @s [{ "translate": "   ","color": "gray"},{ "translate":"Vanilla Refresh Version: ","color":"gray"},{"translate":"1.4.31","color": "green"}]
+tellraw @s [{ "translate": "   ","color": "gray"},{ "translate":"Vanilla Refresh Version: ","color":"gray"},{"translate":"1.4.32","color": "green"}]
 
 
 

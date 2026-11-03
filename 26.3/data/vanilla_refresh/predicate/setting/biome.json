@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:int_value_check",
+  "value": {
+    "type": "minecraft:storage",
+    "storage": "vanilla_refresh_config:config",
+    "path": "config.biome"
+  },
+  "test": 1
+}
+  

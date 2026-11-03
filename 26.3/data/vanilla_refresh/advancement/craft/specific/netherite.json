@@ -1,0 +1,107 @@
+{
+  "criteria": {
+    "netherite_block": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "netherite_block"
+      }
+    },
+    "netherite_ingot_from_netherite_block": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "netherite_ingot_from_netherite_block"
+      }
+    },
+    "netherite_ingot": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "netherite_ingot"
+      }
+    },
+    "netherite_axe_smithing": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "netherite_axe_smithing"
+      }
+    },
+    "netherite_boots_smithing": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "netherite_boots_smithing"
+      }
+    },
+    "netherite_chestplate_smithing": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "netherite_chestplate_smithing"
+      }
+    },
+    "netherite_helmet_smithing": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "netherite_helmet_smithing"
+      }
+    },
+    "netherite_hoe_smithing": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "netherite_hoe_smithing"
+      }
+    },
+    "netherite_leggings_smithing": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "netherite_leggings_smithing"
+      }
+    },
+    "netherite_pickaxe_smithing": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "netherite_pickaxe_smithing"
+      }
+    },
+    "netherite_shovel_smithing": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "netherite_shovel_smithing"
+      }
+    },
+    "netherite_sword_smithing": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "netherite_sword_smithing"
+      }
+    },
+    "netherite_spear_smithing": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "netherite_spear_smithing"
+      }
+    },
+    "netherite_upgrade_smithing_template": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "netherite_upgrade_smithing_template"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "netherite_block",
+      "netherite_ingot_from_netherite_block",
+      "netherite_ingot",
+      "netherite_axe_smithing",
+      "netherite_boots_smithing",
+      "netherite_chestplate_smithing",
+      "netherite_helmet_smithing",
+      "netherite_hoe_smithing",
+      "netherite_leggings_smithing",
+      "netherite_pickaxe_smithing",
+      "netherite_shovel_smithing",
+      "netherite_sword_smithing",
+      "netherite_spear_smithing",
+      "netherite_upgrade_smithing_template"
+    ]
+  ],
+  "parent": "vanilla_refresh:craft/any"
+}

@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:any_of",
+  "terms": [
+    {
+      "type": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type_specific/player": {
+          "advancements": {
+            "vanilla_refresh:place/command_block": true
+          }
+        }
+      }
+    },
+    {
+      "type": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type_specific/player": {
+          "advancements": {
+            "vanilla_refresh:place/command_block_chain": true
+          }
+        }
+      }
+    },
+    {
+      "type": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type_specific/player": {
+          "advancements": {
+            "vanilla_refresh:place/command_block_repeating": true
+          }
+        }
+      }
+    }
+  ]
+}
+

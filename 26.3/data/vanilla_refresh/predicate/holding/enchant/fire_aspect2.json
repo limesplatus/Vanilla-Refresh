@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "enchantments": [
+          {
+            "enchantment": "minecraft:luck_of_the_sea",
+            "levels": 2
+          }
+        ]
+      }
+    }
+  }
+}
+  

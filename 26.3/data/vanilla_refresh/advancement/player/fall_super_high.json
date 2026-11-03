@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": "vanilla_refresh:condition/fall_super_high"
+      }
+    }
+  },
+  "parent": "vanilla_refresh:player/fall_high"
+}
+  

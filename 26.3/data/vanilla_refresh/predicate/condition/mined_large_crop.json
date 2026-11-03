@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:all_of",
+  "terms": [
+    "vanilla_refresh:holding/enchant/not_silk_touch",
+    {
+      "type": "minecraft:any_of",
+      "terms": [
+        {
+          "type": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "refresh_mine.melon": {
+              "min": 1
+            }
+          }
+        },
+        {
+          "type": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "refresh_mine.pumpkin": {
+              "min": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:any_of",
+  "terms": [
+    {
+      "type": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "feet": {
+            "items": "#vanilla_refresh:armor"
+          }
+        }
+      }
+    }
+  ]
+}

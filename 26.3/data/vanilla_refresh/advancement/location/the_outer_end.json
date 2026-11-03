@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "entered_end_gateway": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "player": {
+          "type": "minecraft:all_of",
+          "terms": [
+            "vanilla_refresh:setting/subtitles",
+            "vanilla_refresh:position/the_end"
+          ]
+        },
+        "block": "minecraft:end_gateway"
+      }
+    }
+  },
+  "rewards": {
+    "function": "vanilla_refresh:other_features/event/narate/the_outer_end"
+  }
+}

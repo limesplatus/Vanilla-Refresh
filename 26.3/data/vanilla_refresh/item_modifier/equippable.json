@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:set_components",
+  "components": {
+    "equippable": {
+      "slot": "head",
+      "equip_sound": "item.armor.equip_chain"
+    }
+  }
+}
+
+  

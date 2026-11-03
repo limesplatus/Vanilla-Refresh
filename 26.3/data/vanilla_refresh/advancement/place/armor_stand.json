@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": {
+          "type": "minecraft:match_tool",
+          "predicate": {
+            "items": [
+              "minecraft:armor_stand"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "vanilla_refresh:other/placed_block"
+  },
+  "parent": "vanilla_refresh:place/disc"
+}

@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "ender_eye": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "ender_eye"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "ender_eye"
+    ]
+  ],
+  "parent": "vanilla_refresh:craft/any"
+}

@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "beacon": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "anvil"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "beacon"
+    ]
+  ],
+  "parent": "vanilla_refresh:craft/any"
+}

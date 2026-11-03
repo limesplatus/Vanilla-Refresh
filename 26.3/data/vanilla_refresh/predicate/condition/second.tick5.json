@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:int_value_check",
+  "value": {
+    "type": "minecraft:score",
+    "target": {
+      "type": "minecraft:fixed",
+      "name": "second"
+    },
+    "score": "refresh_clock"
+  },
+  "test": 4
+}
+  

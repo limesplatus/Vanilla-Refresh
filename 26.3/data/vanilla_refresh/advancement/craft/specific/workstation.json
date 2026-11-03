@@ -1,0 +1,65 @@
+{
+  "criteria": {
+    "grindstone": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "grindstone"
+      }
+    },
+    "smithing_table": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "smithing_table"
+      }
+    },
+    "brewing_stand": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "brewing_stand"
+      }
+    },
+    "smoker": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "smoker"
+      }
+    },
+    "blast_furnace": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "blast_furnace"
+      }
+    },
+    "loom": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "loom"
+      }
+    },
+    "lodestone": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "lodestone"
+      }
+    },
+    "stonecutter": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipes": "stonecutter"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "grindstone",
+      "smithing_table",
+      "brewing_stand",
+      "smoker",
+      "blast_furnace",
+      "loom",
+      "lodestone",
+      "stonecutter"
+    ]
+  ],
+  "parent": "vanilla_refresh:craft/any"
+}

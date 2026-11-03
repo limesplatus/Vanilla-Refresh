@@ -1,0 +1,17 @@
+{
+  "parent": "vanilla_refresh:has/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": "vanilla_refresh:setting/tips_refresh",
+        "items": [
+          {
+            "items": "#vanilla_refresh:banner"
+          }
+        ]
+      }
+    }
+  }
+}
+  

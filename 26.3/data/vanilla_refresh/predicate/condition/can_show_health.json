@@ -1,0 +1,59 @@
+{
+  "type": "minecraft:all_of",
+  "terms": [
+    {
+      "type": "minecraft:inverted",
+      "term": "vanilla_refresh:condition/spectator"
+    },
+    {
+      "type": "minecraft:inverted",
+      "term": {
+        "type": "minecraft:all_of",
+        "terms": [
+          "vanilla_refresh:condition/invisible",
+          {
+            "type": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "entity_type": "minecraft:player"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "minecraft:inverted",
+      "term": {
+        "type": "minecraft:any_of",
+        "terms": [
+          {
+            "type": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "entity_type": "#vanilla_refresh:cannot_show_health"
+            }
+          },
+          {
+            "type": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "nbt": "{Tags:[\"refresh_entity_misc\"]}"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "minecraft:inverted",
+      "term": {
+        "type": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "passenger": {
+            "entity_type": "player"
+          }
+        }
+      }
+    }
+  ]
+}

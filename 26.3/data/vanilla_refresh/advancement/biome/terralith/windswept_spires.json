@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type": "minecraft:all_of",
+          "terms": [
+            "vanilla_refresh:setting/biome",
+            "vanilla_refresh:condition/exist_200ticks",
+            "vanilla_refresh:condition/second.tick5",
+            "vanilla_refresh:condition/no_toast",
+            {
+              "type": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "location": {
+                  "biomes": "#vanilla_refresh:terralith/windswept_spires"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "vanilla_refresh:other_features/biome/terralith/windswept_spires"
+  }
+}

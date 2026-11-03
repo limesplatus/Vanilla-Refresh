@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:set_components",
+  "components": {
+    "minecraft:trim": {
+      "material": "minecraft:netherite",
+      "pattern": "minecraft:snout"
+    }
+  }
+}

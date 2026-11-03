@@ -5,7 +5,7 @@
       "conditions": {
         "entity":
         {
-          "type": "wither"
+          "entity_type": "wither"
         },
         "player": [
           {

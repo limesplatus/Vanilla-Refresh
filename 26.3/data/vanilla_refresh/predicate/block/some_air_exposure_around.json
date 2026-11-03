@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:any_of",
+  "terms": [
+    {
+      "type": "minecraft:location_check",
+      "offsetX": 1,
+      "predicate": {
+        "block": {
+          "blocks": "#vanilla_refresh:permeable"
+        }
+      }
+    },
+    {
+      "type": "minecraft:location_check",
+      "offsetX": -1,
+      "predicate": {
+        "block": {
+          "blocks": "#vanilla_refresh:permeable"
+        }
+      }
+    },
+    {
+      "type": "minecraft:location_check",
+      "offsetZ": 1,
+      "predicate": {
+        "block": {
+          "blocks": "#vanilla_refresh:permeable"
+        }
+      }
+    },
+    {
+      "type": "minecraft:location_check",
+      "offsetZ": -1,
+      "predicate": {
+        "block": {
+          "blocks": "#vanilla_refresh:permeable"
+        }
+      }
+    }
+  ]
+}
